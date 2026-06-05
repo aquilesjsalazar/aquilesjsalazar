@@ -2,17 +2,6 @@
 
 I am a **Chemical Engineer** transitioning into **Data Analytics and Machine Learning** driving digital transformation and Industry 4.0 initiatives within the process industries. 
 
-My unique value lies at the intersection of physical asset engineering and predictive data modeling. Having worked within the coatings, paint, and pharmaceutical sectors, I understand the operational realities of the plant floor. I leverage data analytics not just to find patterns, but to solve tangible engineering and financial challenges.
-
----
-
-### 🚀 Core Focus & Interests
-* 📈 **Industrial Data Science:** Deploying Machine Learning to optimize manufacturing yields and predict process behaviors.
-* 🌐 **Digital Twin Frameworks:** Integrating rigorous process simulations with modern data pipelines.
-* 🔮 **Predictive & Business Forecasting:** Building multi-year data-driven financial models to project corporate revenue and market trends.
-
----
-
 ### 🛠️ Technical Stack & Tools
 
 | Category | Technologies & Tools |
