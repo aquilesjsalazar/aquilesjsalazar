@@ -25,10 +25,8 @@ My unique value lies at the intersection of physical asset engineering and predi
 
 ### 📂 Featured Project
 
-#### **[Refinery Optimization & 10-Year Production Forecasting for 100/130 Avgas]**
-*Developed a comprehensive engineering and data science framework to model national fuel production capabilities against market demands.*
-* **Digital Process Modeling:** Designed and optimized a high-performance distillation column using **Aspen HYSYS** and **PRO/II** to validate complex thermodynamic and hydraulic constraints.
-* **Predictive & Financial Forecasting:** Developed data models to project the production landscape of 100/130 Avgas in Venezuela, alongside a financial model forecasting corporate revenue generation across a 10-year gap.
+#### **[Equinor Volve field project]**
+*Developed a comprehensive engineering and data science framework to model well performance over time.*
 * *[👉 View Repository](Link_To_Your_Repo_Here)*
 
 ---
@@ -37,7 +35,7 @@ My unique value lies at the intersection of physical asset engineering and predi
 I am actively seeking professional opportunities and project collaborations in the US, Canada, and globally focused on digital transformation, operational analytics, and industrial data science.
 
 * **LinkedIn:** [Your LinkedIn Profile URL](Link_Here)
-* **Email:** [Your Email Address](Link_Here)
+* **Email:** [aquilesjsalazar@outlook.com](Link_Here)
 
 <!--
 **aquilesjsalazar/aquilesjsalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
