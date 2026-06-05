@@ -11,7 +11,7 @@ I am a **Chemical Engineer** transitioning into **Data Analytics and Machine Lea
 
 ---
 
-### 📂 Featured Project
+### 📂 Working on...
 
 #### **[Equinor Volve field project]**
 *Developed a comprehensive engineering and data science framework to model well performance over time.*
@@ -19,11 +19,10 @@ I am a **Chemical Engineer** transitioning into **Data Analytics and Machine Lea
 
 ---
 
-### 🤝 Let's Connect!
 I am actively seeking professional opportunities and project collaborations in the US, Canada, and globally focused on digital transformation, operational analytics, and industrial data science.
 
-* **LinkedIn:** [https://www.linkedin.com/in/aquiles-salazar](Link_Here)
-* **Email:** [aquilesjsalazar@outlook.com](Link_Here)
+* **LinkedIn:** [https://www.linkedin.com/in/aquiles-salazar]([https://www.linkedin.com/in/aquiles-salazar])
+* **Email:** [aquilesjsalazar@outlook.com](aquilesjsalazar@outlook.com)
 
 <!--
 **aquilesjsalazar/aquilesjsalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
