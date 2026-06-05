@@ -7,8 +7,7 @@ I am a **Chemical Engineer** transitioning into **Data Analytics and Machine Lea
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Data Science & Analytics** | Python (Pandas, NumPy, Scikit-Learn), SQL, Microsoft Power BI |
-| **Process Engineering & Simulation** | Aspen HYSYS, PRO/II, Process Optimization |
-| **Methodologies** | Time-Series Forecasting, Data Modeling, Quantitative Analysis |
+| **Methodologies** | Time-Series Forecasting, Data Modeling, Quantitative Analysis, ROI Analysis |
 
 ---
 
