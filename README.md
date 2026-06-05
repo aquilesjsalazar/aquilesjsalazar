@@ -1,6 +1,6 @@
 ## Hi there, I'm Aquiles 👋
 
-I am a **Chemical Engineer** transitioning into **Data Analytics and Machine Learning**, with a specific focus on driving digital transformation and Industry 4.0 initiatives within the process industries. 
+I am a **Chemical Engineer** transitioning into **Data Analytics and Machine Learning** driving digital transformation and Industry 4.0 initiatives within the process industries. 
 
 My unique value lies at the intersection of physical asset engineering and predictive data modeling. Having worked within the coatings, paint, and pharmaceutical sectors, I understand the operational realities of the plant floor. I leverage data analytics not just to find patterns, but to solve tangible engineering and financial challenges.
 
