@@ -23,7 +23,7 @@ I am a **Chemical Engineer** transitioning into **Data Analytics and Machine Lea
 ### 🤝 Let's Connect!
 I am actively seeking professional opportunities and project collaborations in the US, Canada, and globally focused on digital transformation, operational analytics, and industrial data science.
 
-* **LinkedIn:** [Your LinkedIn Profile URL](Link_Here)
+* **LinkedIn:** [https://www.linkedin.com/in/aquiles-salazar](Link_Here)
 * **Email:** [aquilesjsalazar@outlook.com](Link_Here)
 
 <!--
