@@ -1,6 +1,6 @@
 ## Hi there, I'm Aquiles 👋
 
-I'm a Chemical Engineer transitioning into Data Analytics and Machine Learning driving digital transformation and Industry 4.0 initiatives within the process industries. 
+I'm a Chemical Engineer transitioning into Data Analytics and Machine Learning driving digital transformation and Industry 4.0 initiatives within the process industries and beyond. 
 
 ### 🛠️ Technical Stack & Tools
 
